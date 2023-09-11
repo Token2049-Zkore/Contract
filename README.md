@@ -36,7 +36,7 @@ function createEvent(
 ) public onlyOwner
 ```
 
-### safeMint
+### mintEventTicket
 
 `mintEventTicket` lets users register for events by providing proof of meeting the organizer's criteria, such as a verified Twitter score.
 
