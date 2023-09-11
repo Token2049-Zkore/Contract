@@ -18,3 +18,5 @@
 | Zkore    | 0x7feF193EE3820E7738d161Cf85854100d38df803 | Mumbai | [Zkore](https://mumbai.polygonscan.com/address/0x7feF193EE3820E7738d161Cf85854100d38df803#code)   |
 
 ### Contract ABI
+
+Zkore ABI: [link](ZKore.json)
