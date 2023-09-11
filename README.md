@@ -19,7 +19,7 @@
 
 ## Contract ABI
 
-Zkore ABI: [link](ZKore.json)
+Zkore ABI: [link](Zkore.json)
 
 ## Contract Functions
 
@@ -31,8 +31,8 @@ Stores the `verifierType` against the next `tokenId` to be minted.
 
 ```solidity
 function createEvent(
-string memory name,
-uint256 verifierType
+    string memory name,
+    uint256 verifierType
 ) public onlyOwner
 ```
 
@@ -44,8 +44,8 @@ Mints a new ticket after successful verification through the appropriate verifie
 
 ```solidity
 function mintEventTicket(
-uint256 tokenId,
-uint256[7] calldata instances,
-bytes calldata proof
+    uint256 tokenId,
+    uint256[7] calldata instances,
+    bytes calldata proof
 ) public
 ```
