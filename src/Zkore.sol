@@ -65,6 +65,7 @@ contract Zkore is ERC1155, Ownable {
     ) public onlyOwner {
         verifierTypeByTokenId[counter] = verifierType;
         events.push(ZKEvent(name, verifierType, counter));
+        counter++;
     }
 
     function mintEventTicket(
