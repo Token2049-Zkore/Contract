@@ -25,7 +25,7 @@ Zkore ABI: [link](Zkore.json)
 
 ### createEvent
 
-`createEvent` allows organizers to set up events with entry restrictions, like requiring a Twitter score of at least 100.
+`createEvent` allows owner to set up events with entry restrictions, like requiring a Twitter score of at least 100.
 
 Stores the `verifierType` against the next `tokenId` to be minted.
 
