@@ -5,8 +5,8 @@
 export CHAIN_ID=80001
 export RPC_URL="https://polygon-mumbai-bor.publicnode.com"
 export VERIFIER_URL="https://api-testnet.polygonscan.com/api"
-export ETHERSCAN_API_KEY=97FBVBSBVTZ8214QJ31VC5WCB6D793FKC1
-export PRIVATE_KEY=01fb23a5ddf2d8db246d1dd76268e63e0b04adaca008bb95675d59d14281184a
+export ETHERSCAN_API_KEY=
+export PRIVATE_KEY=
 
 forge script script/DeployVerifier1.s.sol:DeployScript \
   --chain-id "$CHAIN_ID" \

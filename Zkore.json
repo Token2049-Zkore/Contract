@@ -383,6 +383,29 @@
     "type": "function"
   },
   {
+    "inputs": [
+      {
+        "internalType": "uint256",
+        "name": "tokenId",
+        "type": "uint256"
+      },
+      {
+        "internalType": "uint256[7]",
+        "name": "instances",
+        "type": "uint256[7]"
+      },
+      {
+        "internalType": "bytes",
+        "name": "proof",
+        "type": "bytes"
+      }
+    ],
+    "name": "mintEventTicket",
+    "outputs": [],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
     "inputs": [],
     "name": "owner",
     "outputs": [
@@ -431,29 +454,6 @@
       }
     ],
     "name": "safeBatchTransferFrom",
-    "outputs": [],
-    "stateMutability": "nonpayable",
-    "type": "function"
-  },
-  {
-    "inputs": [
-      {
-        "internalType": "uint256",
-        "name": "tokenId",
-        "type": "uint256"
-      },
-      {
-        "internalType": "uint256[7]",
-        "name": "instances",
-        "type": "uint256[7]"
-      },
-      {
-        "internalType": "bytes",
-        "name": "proof",
-        "type": "bytes"
-      }
-    ],
-    "name": "safeMint",
     "outputs": [],
     "stateMutability": "nonpayable",
     "type": "function"
