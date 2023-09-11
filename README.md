@@ -15,7 +15,7 @@
 | Verifier03 | 0x508A6f64a692046D41c23Da376dC3daff8c856B3 | Mumbai | [Verifier03](https://mumbai.polygonscan.com/address/0x508A6f64a692046D41c23Da376dC3daff8c856B3#code) |
 | Verifier04 | 0xaAC3bEF2AB4DeD75aa7eAB6C3E860A311e14eDc6 | Mumbai | [Verifier04](https://mumbai.polygonscan.com/address/0xaAC3bEF2AB4DeD75aa7eAB6C3E860A311e14eDc6#code) |
 | Verifier05 | 0xf19B762e1bFD8a03db6E26017d3eDB98aC8eF6D8 | Mumbai | [Verifier05](https://mumbai.polygonscan.com/address/0xf19B762e1bFD8a03db6E26017d3eDB98aC8eF6D8#code) |
-| Zkore      | 0xff557217986D43552D49DcCCAea42e4190D06902 | Mumbai | [Zkore](https://mumbai.polygonscan.com/address/0xff557217986D43552D49DcCCAea42e4190D06902#code)      |
+| Zkore      | 0x953CEBe0599C7Ad53e964BfbC1e52b5ab3db818e | Mumbai | [Zkore](https://mumbai.polygonscan.com/address/0x953CEBe0599C7Ad53e964BfbC1e52b5ab3db818e#code)      |
 
 ## Contract ABI
 
